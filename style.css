@@ -1,0 +1,140 @@
+.post .post_control.share,
+.reblog_follow_button,
+#tumblr_radar,
+#return_to_top,
+.sidebar_nav,
+.elevator-wrapper,
+.new_post_buttons_container,
+.remnant-unit-container {
+	display: none !important;
+}
+
+/*.compose-button {
+	color: #6db5d0 !important;
+	background-color: white !important;
+	border-color: white !important;
+}*/
+
+.post .post_body blockquote {
+	margin-left: 0 !important;
+}
+
+.l-container {
+	padding-top: 73px !important;
+}
+
+body:not(#dashboard_iframe) {
+	/*background-image: url(bg.png) !important;*/
+	/*background-color: #6db5d0 !important;*/
+	/*background-repeat: repeat !important;*/
+	/*background-attachment: fixed !important;*/
+}
+
+/*.identity .controls_section li:not(.section_header):hover {
+	background-color: #616161 !important;
+}*/
+
+/*.identity-refresh .post_full .post_permalink:not(.no-transition--dogear) {
+	border-color: #6db5d0 #6db5d0 transparent transparent !important;
+}*/
+
+.post .content blockquote {
+	margin: 10px 0px 0px 10px;
+	/*padding-left: 10px;*/
+	border-left: solid 4px #dcdcdc;
+}
+
+/*.l-content, .l-header-container {
+	background-color: #6db5d0 !important;
+	border-radius: 0 !important;
+}*/
+
+/*.selection_nipple {
+	display: none !important;
+}*/
+
+/*#search_query {
+	background-color: rgba(0,0,0,.2) !important;
+}*/
+
+/*#right_column, #left_column,
+#right_column:after,
+.follow_list_item_blog:before {
+	background-color: #6db5d0 !important;
+	background: #6db5d0 !important;
+}*/
+
+/*#right_column {
+	background-color: #6db5d0 !important;
+	background: #6db5d0 !important;
+}*/
+
+/*.follow_list_item_blog:before {
+	border-right: none !important;
+}*/
+
+/*.recommended_tumblelogs .follow,
+.recommended_tumblelogs .item:hover .icon_plus {
+	background-color: transparent !important;
+	color: rgba(255,255,255,.2) !important;
+}*/
+
+/*.recommended_tumblelogs .follow:hover .icon_plus {
+	color: white !important;
+}*/
+
+.post, .post_avatar, .post_avatar_link, .popover, .popover_content_wrapper, .popover_inner {
+	border-radius: 0 !important;
+}
+
+/*.ui_peepr_glass, .glass {
+	background-color: rgba(0,0,0,0.85) !important;
+}*/
+
+#xstats_ul #xstats_dashboard_stats div {
+	padding-left: 40px !important;
+	/*height: 36px !important;*/
+}
+
+div.l-header {
+	min-width: 920px !important;
+	width: 920px !important;
+	/*background: #6db5d0 !important;*/
+}
+
+/*    .l-header-container--refresh {
+        box-shadow: none !important;
+        }
+
+        .svg-logo {
+        display: none;
+    }
+
+        .logo-anchor {
+        background: url('https://i.imgur.com/pPayJbc.png') no-repeat !important;
+        width: 200px !important;
+        margin-left: 5px !important;
+        margin-top: -5px !important;
+    }
+    
+    .logo-anchor:active {
+        opacity: .8;
+    }
+*/
+/*div.l-header-container.l-header-container--refresh {
+	box-shadow: none !important;
+	background: #6db5d0 !important;
+}*/
+
+/*#search_query {
+	border: none !important;
+	outline: none !important;
+}*/
+
+.post_avatar {
+	background-color: transparent !important;
+}
+
+/*body.peepr .l-container, body.peepr .l-header-container {
+	-webkit-filter: blur(20px) !important;
+}*/
